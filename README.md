@@ -10,7 +10,7 @@
 
 [ LAB 06 https://github.com/2303A52201/Gen-AI/blob/main/lass_lab_06.ipynb ]
 
-
+[ LAB 07 https://github.com/2303A52201/Gen-AI/blob/main/ASSIGNMENT_7.ipynb]
 
 [ LAB 08.1 https://github.com/2303A52201/Gen-AI/blob/main/Assignment_8.1.ipynb ]
 
